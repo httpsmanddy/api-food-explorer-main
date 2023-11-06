@@ -1,0 +1,4 @@
+node_modules
+.env
+tmp
+src/database/database.db
